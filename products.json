@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Headphones", "price": 199, "image": "/assets/headphones.jpg" },
+    { "id": 2, "name": "laptop", "price": 999, "image": "/assets/laptop.jpg" },
+    { "id": 3, "name": "Smartphone", "price": 799, "image": "/assets/smartphone.jpg" }
+]
